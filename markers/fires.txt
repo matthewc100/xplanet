@@ -1,0 +1,5 @@
+# This Volcano file created by script "firedata_1.pl"
+# Matt Coblentz; Perl version v5.12.4
+# For more information, see the website fire.csv
+# Last Updated: Tue Jan  2 15:00:01 2018
+    

@@ -1,0 +1,109 @@
+# This Quake file created by script "quake_parsing_10.pl"
+# Matt Coblentz; Perl version v5.12.4
+# For more information, see the USGS website https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.atom
+# Last Updated: Thu Jan  4 06:54:18 2018
+  
+# ID        : urn:earthquake-usgs-gov:us:1000c0mp
+# Title     : M 4.6 - 22km NW of Santa Cruz Verapaz, Guatemala
+# Place     : 22km NW of Santa Cruz Verapaz, Guatemala
+# Magnitude : 4.6
+# Updated   : 2018-01-04T14:49:36.444Z
+# Location  : 15.5066 -90.5809
+# Time Xpath: 2018-01-04 05:43:06 -06:00 at epicenter
+    
+15.5066 -90.5809 "" color=Green symbolsize=34.5
+15.5066 -90.5809 "4.6" color=Green align=Above
+15.5066 -90.5809 "22km NW of Santa Cruz Verapaz, Guatemala 
+ 2018-01-04 05:43:06 -06:00 at epicenter (local time)" color=Green align=Below
+   
+# ID        : urn:earthquake-usgs-gov:us:1000c0lz
+# Title     : M 4.9 - 33km W of Peje, Kosovo
+# Place     : 33km W of Peje, Kosovo
+# Magnitude : 4.9
+# Updated   : 2018-01-04T10:57:11.040Z
+# Location  : 42.6583 19.8827
+# Time Xpath: 2018-01-04 11:46:12 +01:00 at epicenter
+    
+42.6583 19.8827 "" color=Green symbolsize=36.75
+42.6583 19.8827 "4.9" color=Green align=Above
+42.6583 19.8827 "33km W of Peje, Kosovo 
+ 2018-01-04 11:46:12 +01:00 at epicenter (local time)" color=Green align=Below
+   
+# ID        : urn:earthquake-usgs-gov:us:1000c0ju
+# Title     : M 5.3 - 80km ENE of Petropavlovsk-Kamchatskiy, Russia
+# Place     : 80km ENE of Petropavlovsk-Kamchatskiy, Russia
+# Magnitude : 5.3
+# Updated   : 2018-01-04T03:47:18.833Z
+# Location  : 53.2474 159.8081
+# Time Xpath: 2018-01-04 14:44:58 +12:00 at epicenter
+    
+53.2474 159.8081 "" color=ForestGreen symbolsize=39.75
+53.2474 159.8081 "5.3" color=ForestGreen align=Above
+53.2474 159.8081 "80km ENE of Petropavlovsk-Kamchatskiy, Russia 
+ 2018-01-04 14:44:58 +12:00 at epicenter (local time)" color=ForestGreen align=Below
+   
+# ID        : urn:earthquake-usgs-gov:us:1000bzlx
+# Title     : M 4.8 - Central Mid-Atlantic Ridge
+# Place     : Central Mid-Atlantic Ridge
+# Magnitude : 4.8
+# Updated   : 2018-01-03T23:04:24.040Z
+# Location  : -0.1229 -18.0204
+# Time Xpath: 2018-01-03 21:42:41 -01:00 at epicenter
+    
+-0.1229 -18.0204 "" color=Green symbolsize=36
+-0.1229 -18.0204 "4.8" color=Green align=Above
+-0.1229 -18.0204 "Central Mid-Atlantic Ridge 
+ 2018-01-03 21:42:41 -01:00 at epicenter (local time)" color=Green align=Below
+   
+# ID        : urn:earthquake-usgs-gov:us:1000bzhg
+# Title     : M 4.6 - 11km S of Dedang, China
+# Place     : 11km S of Dedang, China
+# Magnitude : 4.6
+# Updated   : 2018-01-04T05:38:19.341Z
+# Location  : 23.9114 99.2484
+# Time Xpath: 2018-01-04 05:35:36 +08:00 at epicenter
+    
+23.9114 99.2484 "" color=Green symbolsize=34.5
+23.9114 99.2484 "4.6" color=Green align=Above
+23.9114 99.2484 "11km S of Dedang, China 
+ 2018-01-04 05:35:36 +08:00 at epicenter (local time)" color=Green align=Below
+   
+# ID        : urn:earthquake-usgs-gov:us:1000bzi4
+# Title     : M 5.1 - Izu Islands, Japan region
+# Place     : Izu Islands, Japan region
+# Magnitude : 5.1
+# Updated   : 2018-01-03T22:23:50.040Z
+# Location  : 29.5984 140.5609
+# Time Xpath: 2018-01-04 06:32:52 +09:00 at epicenter
+    
+29.5984 140.5609 "" color=ForestGreen symbolsize=38.25
+29.5984 140.5609 "5.1" color=ForestGreen align=Above
+29.5984 140.5609 "Izu Islands, Japan region 
+ 2018-01-04 06:32:52 +09:00 at epicenter (local time)" color=ForestGreen align=Below
+   
+# ID        : urn:earthquake-usgs-gov:us:1000bzhb
+# Title     : M 5.4 - Izu Islands, Japan region
+# Place     : Izu Islands, Japan region
+# Magnitude : 5.4
+# Updated   : 2018-01-03T21:49:33.040Z
+# Location  : 29.6049 140.6178
+# Time Xpath: 2018-01-04 06:30:22 +09:00 at epicenter
+    
+29.6049 140.6178 "" color=ForestGreen symbolsize=40.5
+29.6049 140.6178 "5.4" color=ForestGreen align=Above
+29.6049 140.6178 "Izu Islands, Japan region 
+ 2018-01-04 06:30:22 +09:00 at epicenter (local time)" color=ForestGreen align=Below
+   
+# ID        : urn:earthquake-usgs-gov:us:1000bzdq
+# Title     : M 4.5 - 39km N of Baima, China
+# Place     : 39km N of Baima, China
+# Magnitude : 4.5
+# Updated   : 2018-01-03T18:29:42.040Z
+# Location  : 30.408 96.916
+# Time Xpath: 2018-01-04 01:28:36 +08:00 at epicenter
+    
+30.408 96.916 "" color=Green symbolsize=33.75
+30.408 96.916 "4.5" color=Green align=Above
+30.408 96.916 "39km N of Baima, China 
+ 2018-01-04 01:28:36 +08:00 at epicenter (local time)" color=Green align=Below
+   

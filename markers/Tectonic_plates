@@ -1,0 +1,14 @@
+# This Tectonic marker file created by Matthew Coblentz 
+# For more information contact Matthew Coblentz - mcoblentz@comcast.net
+# Last Updated: Tue Dec 22 21:03:05 2015
+#
+#NB 
+  -9.60  108.20 "98S" align=Above color=SkyBlue
+  -9.60  108.20 "DEP" align=Below color=SkyBlue
+#
+   7.50  102.90 "98W" align=Above color=SkyBlue
+   7.50  102.90 "DEP" align=Below color=SkyBlue
+#
+ -14.90  134.80 "99P" align=Above color=SkyBlue
+ -14.90  134.80 "DEP" align=Below color=SkyBlue
+

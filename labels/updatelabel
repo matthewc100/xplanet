@@ -1,0 +1,15 @@
+# This UpdateLabel marker file created by TotalMarker - Server Edition (PHP/Perl Beta) version 2.5.5
+# For more information read the top of the TotalMarker file or go to
+# http://www.wizabit.eclipse.co.uk/xplanet
+# Last Updated: Wed Jan 30 12:00:04 2008
+#
+-35 -1 "NORAD Infomation Last Updated Wed 30 Jan 2008,09:05:09" color=Green image=none position=pixel
+-45 -1 "Storm Infomation Last Updated Wed 30 Jan 2008,09:12:19" color=Green image=none position=pixel
+-55 -1 "Volcano Infomation Last Updated Wed 23 Jan 2008,00:00:21" color=Yellow image=none position=pixel
+-65 -1 "Earthquake Infomation Last Updated Wed 30 Jan 2008,12:00:04" color=Green image=none position=pixel
+-75 -1 "Cloud Map Last Updated Wed 30 Jan 2008,08:32:24" color=Green image=none position=pixel
+            
+            
+-85 -1 "80% Confidence Fire Data; Last Updated Wed 23 Jan 2008,13:0:33 "color=Green
+-85 -1 "80% Confidence Fire Data; Last Updated Mon 28 Jan 2008,13:0:12 "color=Green
+-85 -1 "80% Confidence Fire Data; Last Updated Tues 29 Jan 2008,13:0:6 "color=Green

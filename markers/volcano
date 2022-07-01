@@ -1,0 +1,113 @@
+# This Volcano file created by script "volcano_parsing_1"
+# Matt Coblentz; Perl version v5.12.4
+# For more information, see the website http://www.volcano.si.edu/news/WeeklyVolcanoRSS.xml
+# Last Updated: Thu Jan  4 01:00:03 2018
+  
+
+# Title     : Agung (Indonesia) -  Report for 27 December-2 January 2018 - NEW
+# Name      : Agung
+# Location  : -8.343 115.508
+    
+-8.343 115.508 "" color=Yellow symbolsize=4
+-8.343 115.508 "" color={228, 34, 23} symbolsize=8
+-8.343 115.508 "Agung" color=Chocolate align=Below
+   
+
+# Title     : Bezymianny (Russia) -  Report for 27 December-2 January 2018 - NEW
+# Name      : Bezymianny
+# Location  : 55.972 160.595
+    
+55.972 160.595 "" color=Yellow symbolsize=4
+55.972 160.595 "" color={228, 34, 23} symbolsize=8
+55.972 160.595 "Bezymianny" color=Chocolate align=Below
+   
+
+# Title     : Kanlaon (Philippines) -  Report for 27 December-2 January 2018 - NEW
+# Name      : Kanlaon
+# Location  : 10.412 123.132
+    
+10.412 123.132 "" color=Yellow symbolsize=4
+10.412 123.132 "" color={228, 34, 23} symbolsize=8
+10.412 123.132 "Kanlaon" color=Chocolate align=Below
+   
+
+# Title     : Pacaya (Guatemala) -  Report for 27 December-2 January 2018 - NEW
+# Name      : Pacaya
+# Location  : 14.382 -90.601
+    
+14.382 -90.601 "" color=Yellow symbolsize=4
+14.382 -90.601 "" color={228, 34, 23} symbolsize=8
+14.382 -90.601 "Pacaya" color=Chocolate align=Below
+   
+
+# Title     : Aira (Japan) -  Report for 27 December-2 January 2018
+# Name      : Aira
+# Location  : 31.593 130.657
+    
+31.593 130.657 "" color=Yellow symbolsize=4
+31.593 130.657 "" color={228, 34, 23} symbolsize=8
+31.593 130.657 "Aira" color=Chocolate align=Below
+   
+
+# Title     : Cleveland (United States) -  Report for 27 December-2 January 2018
+# Name      : Cleveland
+# Location  : 52.825 -169.944
+    
+52.825 -169.944 "" color=Yellow symbolsize=4
+52.825 -169.944 "" color={228, 34, 23} symbolsize=8
+52.825 -169.944 "Cleveland" color=Chocolate align=Below
+   
+
+# Title     : Dukono (Indonesia) -  Report for 27 December-2 January 2018
+# Name      : Dukono
+# Location  : 1.693 127.894
+    
+1.693 127.894 "" color=Yellow symbolsize=4
+1.693 127.894 "" color={228, 34, 23} symbolsize=8
+1.693 127.894 "Dukono" color=Chocolate align=Below
+   
+
+# Title     : Ebeko (Russia) -  Report for 27 December-2 January 2018
+# Name      : Ebeko
+# Location  : 50.686 156.014
+    
+50.686 156.014 "" color=Yellow symbolsize=4
+50.686 156.014 "" color={228, 34, 23} symbolsize=8
+50.686 156.014 "Ebeko" color=Chocolate align=Below
+   
+
+# Title     : Kilauea (United States) -  Report for 27 December-2 January 2018
+# Name      : Kilauea
+# Location  : 19.421 -155.287
+    
+19.421 -155.287 "" color=Yellow symbolsize=4
+19.421 -155.287 "" color={228, 34, 23} symbolsize=8
+19.421 -155.287 "Kilauea" color=Chocolate align=Below
+   
+
+# Title     : Klyuchevskoy (Russia) -  Report for 27 December-2 January 2018
+# Name      : Klyuchevskoy
+# Location  : 56.056 160.642
+    
+56.056 160.642 "" color=Yellow symbolsize=4
+56.056 160.642 "" color={228, 34, 23} symbolsize=8
+56.056 160.642 "Klyuchevskoy" color=Chocolate align=Below
+   
+
+# Title     : Sheveluch (Russia) -  Report for 27 December-2 January 2018
+# Name      : Sheveluch
+# Location  : 56.653 161.360
+    
+56.653 161.360 "" color=Yellow symbolsize=4
+56.653 161.360 "" color={228, 34, 23} symbolsize=8
+56.653 161.360 "Sheveluch" color=Chocolate align=Below
+   
+
+# Title     : Sinabung (Indonesia) -  Report for 27 December-2 January 2018
+# Name      : Sinabung
+# Location  : 3.170 98.392
+    
+3.170 98.392 "" color=Yellow symbolsize=4
+3.170 98.392 "" color={228, 34, 23} symbolsize=8
+3.170 98.392 "Sinabung" color=Chocolate align=Below
+   

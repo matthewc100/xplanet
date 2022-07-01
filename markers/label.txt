@@ -1,0 +1,1 @@
+   -65 -1 "Volcano Infomation Last Updated Thu Jan  4 01:00:03 2018" color=Green image=none position=pixel;
