@@ -1,0 +1,9 @@
+# xplanet ignore file
+# created 26 July 2022 
+# Matthew Coblentz
+# 
+# This ignore file will skip the large earth image files in a Git commit.  
+# Blue Marble files are available from NASA, along with the Black Marble file
+
+/Users/mcoblentz/Documents/GitHub/xplanet/image_files/BlackMarble_2016_01deg.jpeg
+/Users/mcoblentz/Documents/GitHub/xplanet/image_files/Blue_Marble/
