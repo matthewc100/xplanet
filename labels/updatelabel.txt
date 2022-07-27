@@ -1,0 +1,11 @@
+# This UpdateLabel marker file created by TotalMarker - Client Edition version 2.5.7
+# For more information read the top of the TotalMarker file or go to
+# http://www.wizabit.eclipse.co.uk/xplanet
+# Last Updated: Mon Jul 25 00:45:15 2022
+#
+            
+-35 -5 "Storm Infomation Last Updated Sun 24 July 2022,19:46:45" color=Green image=none position=pixel
+-45 -5 "Earthquake Infomation Last Updated Mon 25 July 2022,00:45:15" color=Green image=none position=pixel
+-55 -5 "Volcano Infomation Last Updated Wed 1 July 2020,14:09:52" color=Red image=none position=pixel
+-65 -5 "NORAD Infomation Last Updated Sun 24 July 2022,19:01:18" color=Green image=none position=pixel
+-75 -5 "Cloud Map Last Updated Mon 6 Feb 2017,10:31:26" color=Red image=none position=pixel
